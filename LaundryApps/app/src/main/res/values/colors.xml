@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primari">#072D44</color>
+    <color name="Aternary">#9CCDDB</color>
+    <color name="ivory">#e7e7c3</color>
+    <color name="hijau1">#6c8a61</color>
+    <color name="hijau2">#9db77c</color>
+    <color name="hijau3">#c0d4aa</color>
+    <color name="red">#d70e17</color>
+    <color name="abu">#b4baba</color>
+</resources>
